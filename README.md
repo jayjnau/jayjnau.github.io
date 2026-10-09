@@ -1,1 +1,4 @@
-# jayjnau.github.io
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ml7BK4/ePDpKMeH/s55/TklRuVU
+cQ3ElJhogUd6G16jnAE1bVJ1yn3TFYg/4IzBunD9ByrVHql3yJ54wKMswA==
+-----END PUBLIC KEY-----# jayjnau.github.io
